@@ -1,18 +1,19 @@
-## Getting Started
+# Clickers
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+Some clickers programs I build while learning GUI with Java.
 
-## Folder Structure
+Just a compilation of my things and practices.
 
-The workspace contains two folders by default, where:
+## Include
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+* Click Counter: Count the amount of clicks on a button. Restart at 100.
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+* Click Colors: Click and change the colors of the window components.
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
+## Authors
 
-## Dependency Management
+* [@Cromega08](https://github.com/cromega08)
 
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+## License
+
+* [GNU AGPL v3.0](https://choosealicense.com/licenses/agpl-3.0/)
